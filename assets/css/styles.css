@@ -377,6 +377,17 @@ img {
   margin-left: auto;
 }
 
+.error {
+  border: 1px solid red;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  display: block;
+  margin-bottom: 10px;
+}
+
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
